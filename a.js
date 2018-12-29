@@ -1,1 +1,1 @@
-console.log("Chao ban");
+console.log("Chao");
