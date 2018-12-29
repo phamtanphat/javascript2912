@@ -5,4 +5,6 @@
 // function getlog(fn){
 //     fn(1);
 // }
+
+
 // getlog(console.log());
