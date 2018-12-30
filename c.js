@@ -62,7 +62,7 @@ function inSo(fn){
 // inSochinhphuong();
 // inSochia3du1();
 // inSo(2 ,0);
-inSo(function(i){return Math.sqrt(i) % 1 === 0});
+inSo(i => Math.sqrt(i) % 1 === 0);
 // inSochan();
 // inSole();
 // inSochia3du1();
